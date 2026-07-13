@@ -10,4 +10,8 @@ This project contains a CSV file containing information about the NBA.
 
 This CSV file comes already clean and contains things like the year, teams' names, whether they're home or away, represented by A's and H's, and whether or not they won or lost a game. The forecast represnts there likely hood of winning a game. 
 
-In my project I investaga
+In my project, I investigate trends.
+
+List of trends that i have investaged
+
+
